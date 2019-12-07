@@ -27,4 +27,4 @@ Generate your own Spring Boot application from [Spring.io](https://start.spring.
 ## License
 There is no license. Please enjoy!
 
-Best regards Mikael, [https://www.linkedin.com/in/the-mikael-johansson/]()
+Best regards Mikael, [https://www.linkedin.com/in/the-mikael-johansson/]
